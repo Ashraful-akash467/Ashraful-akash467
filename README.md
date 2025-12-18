@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashraful ISLAM AKASH</h1>
 <h3 align="center">A passionate frontend developer from Bagladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraful-akash467&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful-akash467" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful-akash467" alt="ashraful-akash467" /></a> </p>
 
 - 🔭 I’m currently working on **Chatbot**
